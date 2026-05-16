@@ -220,7 +220,11 @@ The allocation dynamically shifts depending on momentum and trend conditions.
 
 Cumulative return comparison between the simplified strategy and SPY, 2019–2026.
 
+
+
 !\[Equity Curve](output/equity\_curve.png?raw=true)
+
+
 
 *Log scale · 0.10% one-way transaction cost · Rebalance every 5 trading days.*
 
