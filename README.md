@@ -222,9 +222,7 @@ Cumulative return comparison between the simplified strategy and SPY, 2019–202
 
 
 
-!\[Equity Curve](https://github.com/Alpharotationlab/US-ETF-Rotation-Model/blob/main/output/equity\_curve.png
-
-)
+!\[Equity Curve](https://raw.githubusercontent.com/Alpharotationlab/US-ETF-Rotation-Model/main/output/equity\_curve.png)
 
 
 
